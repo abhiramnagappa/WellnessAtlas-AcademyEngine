@@ -1,0 +1,253 @@
+{
+  "$defs": {
+    "Attachment": {
+      "properties": {
+        "filename": {
+          "description": "File name, e.g. workbook.pdf",
+          "title": "Filename",
+          "type": "string"
+        },
+        "description": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "What is this attachment?",
+          "title": "Description"
+        },
+        "path": {
+          "description": "Relative path in repo: courses/.../attachments/*.pdf",
+          "title": "Path",
+          "type": "string"
+        }
+      },
+      "required": [
+        "filename",
+        "path"
+      ],
+      "title": "Attachment",
+      "type": "object"
+    },
+    "ChapterMarker": {
+      "properties": {
+        "timestamp": {
+          "description": "Format: mm:ss or hh:mm:ss",
+          "title": "Timestamp",
+          "type": "string"
+        },
+        "title": {
+          "description": "Chapter title",
+          "title": "Title",
+          "type": "string"
+        }
+      },
+      "required": [
+        "timestamp",
+        "title"
+      ],
+      "title": "ChapterMarker",
+      "type": "object"
+    },
+    "Lesson": {
+      "properties": {
+        "id": {
+          "description": "Human readable unique ID for the lesson",
+          "title": "Id",
+          "type": "string"
+        },
+        "title": {
+          "description": "Complete title including course + section if desired",
+          "title": "Title",
+          "type": "string"
+        },
+        "resource_type": {
+          "description": "Type of the primary lesson content",
+          "enum": [
+            "video",
+            "audio",
+            "text"
+          ],
+          "title": "Resource Type",
+          "type": "string"
+        },
+        "resource_url": {
+          "description": "Full URL to video/audio/text hosted on Vimeo, SharePoint, etc.",
+          "format": "uri",
+          "maxLength": 2083,
+          "minLength": 1,
+          "title": "Resource Url",
+          "type": "string"
+        },
+        "duration_minutes": {
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "Length of the lesson in minutes, optional",
+          "title": "Duration Minutes"
+        },
+        "description": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "Short description of the lesson",
+          "title": "Description"
+        },
+        "attachments": {
+          "description": "Optional supporting materials",
+          "items": {
+            "$ref": "#/$defs/Attachment"
+          },
+          "title": "Attachments",
+          "type": "array"
+        },
+        "quiz_id": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "Optional reference to a quiz. Use a human readable ID.",
+          "title": "Quiz Id"
+        },
+        "transcript_path": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "Path to transcript markdown, e.g. courses/.../transcript.md",
+          "title": "Transcript Path"
+        },
+        "chapter_markers": {
+          "anyOf": [
+            {
+              "items": {
+                "$ref": "#/$defs/ChapterMarker"
+              },
+              "type": "array"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "Optional list of chapter markers for navigation",
+          "title": "Chapter Markers"
+        }
+      },
+      "required": [
+        "id",
+        "title",
+        "resource_type",
+        "resource_url"
+      ],
+      "title": "Lesson",
+      "type": "object"
+    },
+    "Section": {
+      "properties": {
+        "id": {
+          "description": "Human readable unique ID for the section",
+          "title": "Id",
+          "type": "string"
+        },
+        "title": {
+          "description": "Section title",
+          "title": "Title",
+          "type": "string"
+        },
+        "lessons": {
+          "description": "Lessons",
+          "items": {
+            "$ref": "#/$defs/Lesson"
+          },
+          "title": "Lessons",
+          "type": "array"
+        }
+      },
+      "required": [
+        "id",
+        "title"
+      ],
+      "title": "Section",
+      "type": "object"
+    }
+  },
+  "properties": {
+    "id": {
+      "description": "Human readable unique ID for the course",
+      "title": "Id",
+      "type": "string"
+    },
+    "title": {
+      "description": "Course title",
+      "title": "Title",
+      "type": "string"
+    },
+    "tagline": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "One-line value proposition for the course",
+      "title": "Tagline"
+    },
+    "description": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "Course description",
+      "title": "Description"
+    },
+    "sections": {
+      "description": "List of sections in order",
+      "items": {
+        "$ref": "#/$defs/Section"
+      },
+      "title": "Sections",
+      "type": "array"
+    }
+  },
+  "required": [
+    "id",
+    "title"
+  ],
+  "title": "Course",
+  "type": "object"
+}
