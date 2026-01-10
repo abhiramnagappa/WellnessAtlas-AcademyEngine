@@ -1,0 +1,1428 @@
+{
+  "id": "fundamentals-of-wellness",
+  "title": "Fundamentals of Wellness",
+  "raw_title": "Fundamentals of Wellness (~40 hrs)",
+  "sections": [
+    {
+      "id": "fundamentals-of-wellness-01",
+      "number": "01",
+      "title": "Introduction to Wellness Atlas Academy",
+      "lessons": [
+        {
+          "id": "fundamentals-of-wellness-01-01",
+          "number": "01.01",
+          "title": "Who are you trying to become as a Wellness Coach?",
+          "duration_seconds": 1189,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-01-02",
+          "number": "01.02",
+          "title": "How do you become a successful Wellness Coach?",
+          "duration_seconds": 681,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-01-03",
+          "number": "01.03",
+          "title": "Structure of this course \u2013 How to use it properly?",
+          "duration_seconds": 569,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-01-04",
+          "number": "01.04",
+          "title": "Important Disclaimers",
+          "duration_seconds": 573,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        }
+      ]
+    },
+    {
+      "id": "fundamentals-of-wellness-02",
+      "number": "02",
+      "title": "Root Cause of Disease",
+      "lessons": [
+        {
+          "id": "fundamentals-of-wellness-02-01",
+          "number": "02.01",
+          "title": "Assessing the Cause",
+          "duration_seconds": 4069,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-02-02",
+          "number": "02.02",
+          "title": "True Cause of Disease",
+          "duration_seconds": 5006,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-02-03",
+          "number": "02.03",
+          "title": "Chronic Inflammation, Insulin Resistance & Oxidative Stress",
+          "duration_seconds": 1571,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-02-04",
+          "number": "02.04",
+          "title": "The Brain & The Law",
+          "duration_seconds": 4982,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        }
+      ]
+    },
+    {
+      "id": "fundamentals-of-wellness-03",
+      "number": "03",
+      "title": "Human Physiology & associated wellness principles",
+      "lessons": [
+        {
+          "id": "fundamentals-of-wellness-03-01",
+          "number": "03.01",
+          "title": "Human Cell & Tissue",
+          "duration_seconds": 702,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-03-02",
+          "number": "03.02",
+          "title": "Organ Systems",
+          "duration_seconds": 285,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-03-03",
+          "number": "03.03",
+          "title": "System 1: Digestive & Excretory System",
+          "duration_seconds": 878,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-03-04",
+          "number": "03.04",
+          "title": "System 1: Journey through the gastro-intestinal tract \u2013 Part 1",
+          "duration_seconds": 3944,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-03-05",
+          "number": "03.05",
+          "title": "System 1: Journey through the gastro-intestinal tract \u2013 Part 2",
+          "duration_seconds": 2997,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-03-06",
+          "number": "03.06",
+          "title": "System 1: Journey through the gastro-intestinal tract \u2013 Part 3",
+          "duration_seconds": 4089,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-03-07",
+          "number": "03.07",
+          "title": "System 1: Role of Fiber in digestion",
+          "duration_seconds": 147,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-03-08",
+          "number": "03.08",
+          "title": "System 1: Carbohydrate, Fat & Protein Metabolism",
+          "duration_seconds": 507,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-03-09",
+          "number": "03.09",
+          "title": "System 1: Liver & Digestion \u2013 The Liver as a Project Manager",
+          "duration_seconds": 3397,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-03-10",
+          "number": "03.10",
+          "title": "System 1: Liver & Digestion \u2013 Detoxing the Liver",
+          "duration_seconds": 4275,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-03-11",
+          "number": "03.11",
+          "title": "System 2: Respiratory System",
+          "duration_seconds": 1270,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-03-12",
+          "number": "03.12",
+          "title": "System 2: Pure Air & Our Lungs",
+          "duration_seconds": 3429,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-03-13",
+          "number": "03.13",
+          "title": "System 3: Immune System",
+          "duration_seconds": 604,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-03-14",
+          "number": "03.14",
+          "title": "System 3: Empowering the Immune System",
+          "duration_seconds": 2470,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-03-15",
+          "number": "03.15",
+          "title": "System 4: Musculo-Skeletal System",
+          "duration_seconds": 563,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-03-16",
+          "number": "03.16",
+          "title": "System 4: Strengthening Bones, Muscles & Joints",
+          "duration_seconds": 2067,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-03-17",
+          "number": "03.17",
+          "title": "System 5: Circulatory System",
+          "duration_seconds": 347,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-03-18",
+          "number": "03.18",
+          "title": "System 5: Improving Circulatory System",
+          "duration_seconds": 4886,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-03-19",
+          "number": "03.19",
+          "title": "System 6: Nervous System",
+          "duration_seconds": null,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-03-20",
+          "number": "03.20",
+          "title": "System 6: Mental Law & The Power of Routines",
+          "duration_seconds": 3749,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-03-21",
+          "number": "03.21",
+          "title": "System 7: Endocrine System",
+          "duration_seconds": null,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-03-22",
+          "number": "03.22",
+          "title": "System 7: Balancing Hormones",
+          "duration_seconds": 3120,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        }
+      ]
+    },
+    {
+      "id": "fundamentals-of-wellness-04",
+      "number": "04",
+      "title": "Functional medicine health systems",
+      "lessons": [
+        {
+          "id": "fundamentals-of-wellness-04-01",
+          "number": "04.01",
+          "title": "Introduction",
+          "duration_seconds": null,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-04-02",
+          "number": "04.02",
+          "title": "Assimilation & Elimination",
+          "duration_seconds": 1507,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-04-03",
+          "number": "04.03",
+          "title": "Detoxification",
+          "duration_seconds": 2160,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-04-04",
+          "number": "04.04",
+          "title": "Cellular Communications",
+          "duration_seconds": 2861,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-04-05",
+          "number": "04.05",
+          "title": "Cellular Transport",
+          "duration_seconds": 2244,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-04-06",
+          "number": "04.06",
+          "title": "Energy",
+          "duration_seconds": 1715,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-04-07",
+          "number": "04.07",
+          "title": "Defense",
+          "duration_seconds": 1222,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-04-08",
+          "number": "04.08",
+          "title": "Structure",
+          "duration_seconds": 2923,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        }
+      ]
+    },
+    {
+      "id": "fundamentals-of-wellness-05",
+      "number": "05",
+      "title": "Macro & Micro-Nutrients & Supplementation",
+      "lessons": [
+        {
+          "id": "fundamentals-of-wellness-05-01",
+          "number": "05.01",
+          "title": "Supplements vs. Medicine \u2013 Part 1 \u2013 Dr. Ashit Naik",
+          "duration_seconds": 364,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-05-02",
+          "number": "05.02",
+          "title": "Supplements vs. Medicine \u2013 Part 1 \u2013 Dr. Sriranjan & Dr. Suman Rao",
+          "duration_seconds": 460,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-05-03",
+          "number": "05.03",
+          "title": "Macronutrients: Carbohydrates \u2013 How to choose healthy Carbs?",
+          "duration_seconds": 838,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-05-04",
+          "number": "05.04",
+          "title": "Macronutrients: Protein \u2013 Why Protein?",
+          "duration_seconds": 890,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-05-05",
+          "number": "05.05",
+          "title": "Macronutrients: Fats - Special Lecture",
+          "duration_seconds": 2900,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-05-06",
+          "number": "05.06",
+          "title": "Macronutrients: Fiber \u2013 What & Why of Fiber?",
+          "duration_seconds": 1102,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-05-07",
+          "number": "05.07",
+          "title": "Macronutrients: Water - Special Lecture",
+          "duration_seconds": 2882,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-05-08",
+          "number": "05.08",
+          "title": "Power of Phytonutrients",
+          "duration_seconds": 772,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        }
+      ]
+    },
+    {
+      "id": "fundamentals-of-wellness-06",
+      "number": "06",
+      "title": "Lifestyle change around 6 pillars of wellness",
+      "lessons": [
+        {
+          "id": "fundamentals-of-wellness-06-01",
+          "number": "06.01",
+          "title": "Recap \u2013 What\u2019s killing us? \u2013 Part 1",
+          "duration_seconds": 820,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-06-02",
+          "number": "06.02",
+          "title": "Recap \u2013 What\u2019s killing us? \u2013 Part 2",
+          "duration_seconds": 927,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-06-03",
+          "number": "06.03",
+          "title": "Medicines: Friend or Foe? \u2013 Why Lifestyle change is a must",
+          "duration_seconds": 890,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-06-04",
+          "number": "06.04",
+          "title": "Good Health: Assumption vs. Reality",
+          "duration_seconds": 1213,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-06-05",
+          "number": "06.05",
+          "title": "Introduction to 6 Wellness Pillars",
+          "duration_seconds": 2567,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-06-06",
+          "number": "06.06",
+          "title": "What is WQ Lifestyle? \u2013 English Version",
+          "duration_seconds": 730,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-06-07",
+          "number": "06.07",
+          "title": "What is WQ Lifestyle? \u2013 Hindi Version",
+          "duration_seconds": 564,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-06-08",
+          "number": "06.08",
+          "title": "Case Study: Success Story of 2 weeks on WQ Lifestyle",
+          "duration_seconds": 889,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        }
+      ]
+    },
+    {
+      "id": "fundamentals-of-wellness-07",
+      "number": "07",
+      "title": "WQ Lifestyle",
+      "lessons": [
+        {
+          "id": "fundamentals-of-wellness-07-01",
+          "number": "07.01",
+          "title": "Habit 1: 2 glasses of water as first thing in morning (Eng & Hindi)",
+          "duration_seconds": null,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-07-02",
+          "number": "07.02",
+          "title": "Habit 2: Detox water in the morning (Eng & Hindi)",
+          "duration_seconds": null,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-07-03",
+          "number": "07.03",
+          "title": "Habit 3: Protein rich breakfast (Eng & Hindi)",
+          "duration_seconds": null,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-07-04",
+          "number": "07.04",
+          "title": "Habit 4: A salad before lunch (Eng & Hindi)",
+          "duration_seconds": null,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-07-05",
+          "number": "07.05",
+          "title": "Habit 5: The right way to snack at 5pm (Hindi)",
+          "duration_seconds": null,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-07-06",
+          "number": "07.06",
+          "title": "Habit 6: Dinner before 8pm (Eng & Hindi)",
+          "duration_seconds": null,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-07-07",
+          "number": "07.07",
+          "title": "Habit 7: No tea or coffee first thing in the morning (Eng & Hindi)",
+          "duration_seconds": null,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-07-08",
+          "number": "07.08",
+          "title": "Habit 8: Drinking 8-10 glasses of water everyday (Eng & Hindi)",
+          "duration_seconds": null,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-07-09",
+          "number": "07.09",
+          "title": "Habit 9: 5 colors of vegetables in your salad (Eng & Hindi)",
+          "duration_seconds": null,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-07-10",
+          "number": "07.10",
+          "title": "Habit 10: Include good fats with your meal (Eng & Hindi)",
+          "duration_seconds": null,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-07-11",
+          "number": "07.11",
+          "title": "Habit 11: Best time to have fruits (Eng & Hindi)",
+          "duration_seconds": null,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-07-12",
+          "number": "07.12",
+          "title": "Habit 12: Best time to take Protein & Fiber supplement (Eng & Hindi)",
+          "duration_seconds": null,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-07-13",
+          "number": "07.13",
+          "title": "Solving the top-level challenges in following WQ Lifestyle (Eng & Hindi)",
+          "duration_seconds": null,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        }
+      ]
+    },
+    {
+      "id": "fundamentals-of-wellness-08",
+      "number": "08",
+      "title": "Wellness Pillar 1: Food & Nutrition",
+      "lessons": [
+        {
+          "id": "fundamentals-of-wellness-08-01",
+          "number": "08.01",
+          "title": "Pillar 1: Food \u2013 Eating Right vs. Eating Less",
+          "duration_seconds": 1200,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-08-02",
+          "number": "08.02",
+          "title": "Pillar 1: Food \u2013 Principles of Eating",
+          "duration_seconds": 790,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-08-03",
+          "number": "08.03",
+          "title": "Pillar 1: Food \u2013 Intermittent Fasting",
+          "duration_seconds": 253,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-08-04",
+          "number": "08.04",
+          "title": "Pillar 1: Food \u2013 How is Nutrition lost in our foods?",
+          "duration_seconds": 855,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-08-05",
+          "number": "08.05",
+          "title": "Pillar 1: Food \u2013 Is Food draining your energy?",
+          "duration_seconds": 640,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-08-06",
+          "number": "08.06",
+          "title": "Pillar 1: Food \u2013 Impact of cooking methods",
+          "duration_seconds": 844,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-08-07",
+          "number": "08.07",
+          "title": "Pillar 1: Food \u2013 5 Expensive mistakes we make in the kitchen",
+          "duration_seconds": 481,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-08-08",
+          "number": "08.08",
+          "title": "Pillar 1: Food \u2013 Hidden Sugars",
+          "duration_seconds": 1262,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-08-09",
+          "number": "08.09",
+          "title": "Pillar 1: Food \u2013 Finding the Hidden Fats",
+          "duration_seconds": 1140,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-08-10",
+          "number": "08.10",
+          "title": "Pillar 1: Food \u2013 Ghee as Good Fat (vs. Oils)",
+          "duration_seconds": 572,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-08-11",
+          "number": "08.11",
+          "title": "Pillar 1: Food \u2013 Less Sugar vs. Less Calories",
+          "duration_seconds": 796,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-08-12",
+          "number": "08.12",
+          "title": "Pillar 1: Food \u2013 Truth about Fat & Sugar free alternatives",
+          "duration_seconds": 974,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-08-13",
+          "number": "08.13",
+          "title": "Pillar 1: Food \u2013 Healthy Snacking",
+          "duration_seconds": 1180,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-08-14",
+          "number": "08.14",
+          "title": "Pillar 1: Food \u2013 Restocking your pantry",
+          "duration_seconds": 952,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-08-15",
+          "number": "08.15",
+          "title": "Pillar 1: Food \u2013 How to read Food Labels?",
+          "duration_seconds": 1303,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-08-16",
+          "number": "08.16",
+          "title": "Pillar 1: Food \u2013 Facts about packaged foods",
+          "duration_seconds": 953,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-08-17",
+          "number": "08.17",
+          "title": "Pillar 1: Food \u2013 What are the 5 Whites to avoid?",
+          "duration_seconds": 1349,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-08-18",
+          "number": "08.18",
+          "title": "Pillar 1: Food \u2013 Are all Brown Foods Healthier?",
+          "duration_seconds": 867,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-08-19",
+          "number": "08.19",
+          "title": "Pillar 1: Food \u2013 Demystify Millets",
+          "duration_seconds": 811,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-08-20",
+          "number": "08.20",
+          "title": "Pillar 1: Food \u2013 Tea & Coffee (The Good & The Bad)",
+          "duration_seconds": 1166,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        }
+      ]
+    },
+    {
+      "id": "fundamentals-of-wellness-09",
+      "number": "09",
+      "title": "Wellness Pillar 2: Movement & Exercise",
+      "lessons": [
+        {
+          "id": "fundamentals-of-wellness-09-01",
+          "number": "09.01",
+          "title": "Pillar 2: Exercise \u2013 Secrets in Plain sight",
+          "duration_seconds": 1031,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-09-02",
+          "number": "09.02",
+          "title": "Pillar 2: Exercise \u2013 Sitting is the new smoking",
+          "duration_seconds": 1218,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-09-03",
+          "number": "09.03",
+          "title": "Pillar 2: Exercise \u2013 Are you exercising properly?",
+          "duration_seconds": 980,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-09-04",
+          "number": "09.04",
+          "title": "Pillar 2: Exercise \u2013 How to choose the right exercise?",
+          "duration_seconds": 1293,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-09-05",
+          "number": "09.05",
+          "title": "Workshop: Part 1 - The right way to do exercises",
+          "duration_seconds": 317,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-09-06",
+          "number": "09.06",
+          "title": "Workshop: Part 2 - The Do\u2019s and Dont\u2019s of exercise",
+          "duration_seconds": 953,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-09-07",
+          "number": "09.07",
+          "title": "Workshop: Part 3 \u2013 Adverse effects of exercise & how to counter them",
+          "duration_seconds": 600,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-09-08",
+          "number": "09.08",
+          "title": "Workshop: Part 4 \u2013 Common exercise myths & scientific explanations",
+          "duration_seconds": 840,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-09-09",
+          "number": "09.09",
+          "title": "Workshop: Part 5 \u2013 Types of exercises & science behind them",
+          "duration_seconds": 360,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-09-10",
+          "number": "09.10",
+          "title": "Workshop: Part 6 \u2013 Anabolic & Catabolic exercises",
+          "duration_seconds": 300,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-09-11",
+          "number": "09.11",
+          "title": "Workshop: Part 7 \u2013 What frequency of exercise as per age & fitness?",
+          "duration_seconds": 375,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-09-12",
+          "number": "09.12",
+          "title": "Workshop: Part 8 \u2013 How to design an exercise program?",
+          "duration_seconds": 485,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        }
+      ]
+    },
+    {
+      "id": "fundamentals-of-wellness-10",
+      "number": "10",
+      "title": "Wellness Pillar 3: Stress/Rest & Relaxation",
+      "lessons": [
+        {
+          "id": "fundamentals-of-wellness-10-01",
+          "number": "10.01",
+          "title": "Pillar 3: Stress \u2013 Why chronic stress is bad for you?",
+          "duration_seconds": 709,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-10-02",
+          "number": "10.02",
+          "title": "Pillar 3: Stress \u2013 Impact of stress on our body",
+          "duration_seconds": 1135,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-10-03",
+          "number": "10.03",
+          "title": "Pillar 3: Stress \u2013 Solving stress using the other 5 wellness pillars",
+          "duration_seconds": 650,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-10-04",
+          "number": "10.04",
+          "title": "Pillar 3: Stress \u2013 The Mind-Body connection",
+          "duration_seconds": 928,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-10-05",
+          "number": "10.05",
+          "title": "Pillar 3: Stress \u2013 What is meditation?",
+          "duration_seconds": 456,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-10-06",
+          "number": "10.06",
+          "title": "Pillar 3: Stress \u2013 Breathing & Meditation for faster healing",
+          "duration_seconds": 752,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-10-07",
+          "number": "10.07",
+          "title": "Mini Stress workshop with Sanjana \u2013 Part 1",
+          "duration_seconds": 1500,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-10-08",
+          "number": "10.08",
+          "title": "Mini Stress workshop with Sanjana \u2013 Part 2",
+          "duration_seconds": 1093,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-10-09",
+          "number": "10.09",
+          "title": "Mini Stress workshop with Sanjana \u2013 Part 3",
+          "duration_seconds": 1705,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-10-10",
+          "number": "10.10",
+          "title": "Mini Stress workshop with Sanjana \u2013 Part 4",
+          "duration_seconds": 1455,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        }
+      ]
+    },
+    {
+      "id": "fundamentals-of-wellness-11",
+      "number": "11",
+      "title": "Wellness Pillar 4: Sleep",
+      "lessons": [
+        {
+          "id": "fundamentals-of-wellness-11-01",
+          "number": "11.01",
+          "title": "Pillar 4: Sleep \u2013 Sleep & Health connection & mistakes to avoid",
+          "duration_seconds": 1309,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-11-02",
+          "number": "11.02",
+          "title": "Pillar 4: Sleep \u2013 What causes sleep issues and what to do?",
+          "duration_seconds": 957,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-11-03",
+          "number": "11.03",
+          "title": "Pillar 4: Sleep \u2013 Circadian Rhythm \u2013 Part 1",
+          "duration_seconds": 630,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-11-04",
+          "number": "11.04",
+          "title": "Pillar 4: Sleep \u2013 Circadian Rhythm \u2013 Part 2",
+          "duration_seconds": 674,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-11-05",
+          "number": "11.05",
+          "title": "Special Lecture: Rest & Sleep \u2013 Part 1 \u2013 Barbara O\u2019Neill",
+          "duration_seconds": 3648,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-11-06",
+          "number": "11.06",
+          "title": "Special Lecture: Rest & Sleep \u2013 Part 2 \u2013 Barbara O\u2019Neill",
+          "duration_seconds": 3434,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        }
+      ]
+    },
+    {
+      "id": "fundamentals-of-wellness-12",
+      "number": "12",
+      "title": "Wellness Pillar 5: Toxicity/Environment",
+      "lessons": [
+        {
+          "id": "fundamentals-of-wellness-12-01",
+          "number": "12.01",
+          "title": "Pillar 5: Webinar \u2013 Understanding the Concept of Toxicity",
+          "duration_seconds": 3598,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-12-02",
+          "number": "12.02",
+          "title": "Pillar 5: Toxicity \u2013 Toxins as Hormone Disruptors",
+          "duration_seconds": 738,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-12-03",
+          "number": "12.03",
+          "title": "Pillar 5: Toxicity \u2013 How to identify toxins?",
+          "duration_seconds": 757,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-12-04",
+          "number": "12.04",
+          "title": "Pillar 5: Toxicity \u2013 Hidden sources of toxins in kitchen",
+          "duration_seconds": 975,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-12-05",
+          "number": "12.05",
+          "title": "Pillar 5: Toxicity \u2013 Benefits of Detox",
+          "duration_seconds": 701,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        },
+        {
+          "id": "fundamentals-of-wellness-12-06",
+          "number": "12.06",
+          "title": "Special Lecture: Temperance & Toxicity \u2013 Barbara O\u2019Neill",
+          "duration_seconds": 4028,
+          "type": "video",
+          "video_url": null,
+          "transcript_path": null,
+          "attachments": [],
+          "quiz": null
+        }
+      ]
+    },
+    {
+      "id": "fundamentals-of-wellness-13",
+      "number": "13",
+      "title": "Wellness Pillar 6: Belongingness",
+      "lessons": []
+    }
+  ]
+}

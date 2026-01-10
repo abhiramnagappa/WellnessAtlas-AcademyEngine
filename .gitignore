@@ -3,8 +3,5 @@ __pycache__/
 .env
 .vscode/
 .idea/
-courses/raw/*
-courses/processed/*
 .DS_Store
 init_repo.sh
-.oca/
