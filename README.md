@@ -2,6 +2,13 @@
 
 A toolkit for organizing, updating, and enriching (eventually) the Wellness Atlas Academy curriculum.
 
+# Prerequisites
+```
+pip install python-slugify
+pip install chromadb
+pip install sentence-transformers
+```
+
 ## Development
 Course Ontology Schema is present inside docs/ontology.schema.json
 
@@ -24,6 +31,9 @@ python scripts/generate_schema.py
 
 To validate generated course ontology against the schema, you can use
 ```
+(base) xxxx@xxxx-mac WellnessAtlas-AcademyEngine % pwd
+/Users/xxxx/WellnessAtlas-AcademyEngine
+export PYTHONPATH=.
 python scripts/validate_courses.py
 ✔ VALID:   courses/processed/1_fundamentals_of_wellness.json
 
