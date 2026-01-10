@@ -60,30 +60,43 @@
           "title": "Id",
           "type": "string"
         },
+        "number": {
+          "description": "Lesson order number (e.g. '01.01', '03.14')",
+          "title": "Number",
+          "type": "string"
+        },
         "title": {
           "description": "Complete title including course + section if desired",
           "title": "Title",
           "type": "string"
         },
-        "resource_type": {
+        "type": {
           "description": "Type of the primary lesson content",
           "enum": [
             "video",
             "audio",
             "text"
           ],
-          "title": "Resource Type",
+          "title": "Type",
           "type": "string"
         },
-        "resource_url": {
+        "video_url": {
+          "anyOf": [
+            {
+              "format": "uri",
+              "maxLength": 2083,
+              "minLength": 1,
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
           "description": "Full URL to video/audio/text hosted on Vimeo, SharePoint, etc.",
-          "format": "uri",
-          "maxLength": 2083,
-          "minLength": 1,
-          "title": "Resource Url",
-          "type": "string"
+          "title": "Video Url"
         },
-        "duration_minutes": {
+        "duration_seconds": {
           "anyOf": [
             {
               "type": "integer"
@@ -93,8 +106,8 @@
             }
           ],
           "default": null,
-          "description": "Length of the lesson in minutes, optional",
-          "title": "Duration Minutes"
+          "description": "Length of the lesson in seconds, optional",
+          "title": "Duration Seconds"
         },
         "description": {
           "anyOf": [
@@ -117,7 +130,7 @@
           "title": "Attachments",
           "type": "array"
         },
-        "quiz_id": {
+        "quiz": {
           "anyOf": [
             {
               "type": "string"
@@ -128,7 +141,7 @@
           ],
           "default": null,
           "description": "Optional reference to a quiz. Use a human readable ID.",
-          "title": "Quiz Id"
+          "title": "Quiz"
         },
         "transcript_path": {
           "anyOf": [
@@ -162,9 +175,9 @@
       },
       "required": [
         "id",
+        "number",
         "title",
-        "resource_type",
-        "resource_url"
+        "type"
       ],
       "title": "Lesson",
       "type": "object"
@@ -174,6 +187,11 @@
         "id": {
           "description": "Human readable unique ID for the section",
           "title": "Id",
+          "type": "string"
+        },
+        "number": {
+          "description": "Section order number (e.g. '1', '2')",
+          "title": "Number",
           "type": "string"
         },
         "title": {
@@ -192,6 +210,7 @@
       },
       "required": [
         "id",
+        "number",
         "title"
       ],
       "title": "Section",

@@ -23,12 +23,15 @@ Example
 python scripts/parse_syllabus.py courses/raw/1_fundamentals_of_wellness.txt courses/processed/1_fundamentals_of_wellness.json
 ```
 
+If you change anything in ontology.py, make sure you generate the schema.
 To Generate/Regenerate (I said regenerate, not degenerate :-)) the schema, you can use
 ```
 export PYTHONPATH=.
 python scripts/generate_schema.py
 ```
 
+Make sure you validate course ontology everytime you generate the schema
+or everytime you generate a new version of a course.
 To validate generated course ontology against the schema, you can use
 ```
 (base) xxxx@xxxx-mac WellnessAtlas-AcademyEngine % pwd

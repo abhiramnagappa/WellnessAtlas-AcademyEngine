@@ -24,6 +24,9 @@ class ChapterMarker(BaseModel):
 
 class Lesson(BaseModel):
     id: str = Field(..., description="Human readable unique ID for the lesson")
+    number: str = Field(
+            ..., description="Lesson order number (e.g. '01.01', '03.14')"
+    )
     title: str = Field(..., description="Complete title including course + section if desired")
     
     type: Literal["video", "audio", "text"] = Field(
@@ -34,8 +37,8 @@ class Lesson(BaseModel):
         None, description="Full URL to video/audio/text hosted on Vimeo, SharePoint, etc."
     )
     
-    duration_minutes: Optional[int] = Field(
-        None, description="Length of the lesson in minutes, optional"
+    duration_seconds: Optional[int] = Field(
+        None, description="Length of the lesson in seconds, optional"
     )
     
     description: Optional[str] = Field(
@@ -46,7 +49,7 @@ class Lesson(BaseModel):
         default_factory=list, description="Optional supporting materials"
     )
     
-    quiz_id: Optional[str] = Field(
+    quiz: Optional[str] = Field(
         None,
         description="Optional reference to a quiz. Use a human readable ID."
     )
@@ -68,6 +71,9 @@ class Lesson(BaseModel):
 class Section(BaseModel):
     id: str = Field(
         ..., description="Human readable unique ID for the section"
+    )
+    number: str = Field(
+            ..., description="Section order number (e.g. '1', '2')"
     )
     title: str = Field(..., description="Section title")
     lessons: List[Lesson] = Field(default_factory=list, description="Lessons")
