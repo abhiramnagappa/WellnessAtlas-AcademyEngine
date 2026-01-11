@@ -44,7 +44,7 @@ python scripts/validate_courses.py
 ```
 ### Run UI
 ```
-make dev
+streamlit run ui/app.py
 ```
 
 ### Run Tests
