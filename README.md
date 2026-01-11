@@ -46,6 +46,41 @@ python scripts/validate_courses.py
 ```
 streamlit run ui/app.py
 ```
+### Ingest Transcripts
+```
+python scripts/ingest_transcript.py --raw transcripts/raw/zoom/2026/01/Test_Transcript_Generation_transcript.vtt --source zoom
+✅ Transcript ingested
+   Transcript ID: zoom_2026_01_test_transcript_generation_transcript
+   Processed MD:  /Users/abnagapp/WellnessAtlas-AcademyEngine/transcripts/processed/unassigned/zoom_2026_01_test_transcript_generation_transcript.md
+   Registry:      /Users/abnagapp/WellnessAtlas-AcademyEngine/transcripts/registry/zoom_2026_01_test_transcript_generation_transcript.json
+python scripts/ingest_transcript.py --raw transcripts/raw/zoom/2025/12/December_2025_Dipika_BuildingFriendshipWithClient.vtt --source zoom
+```
+
+### Assign Transcripts to course and lesson
+```
+python scripts/assign_transcript.py --transcript zoom_2025_12_december_2025_dipika_buildingfriendshipwithclient --course 1_fundamentals_of_wellness --lesson fundamentals-of-wellness-01-01 --method manual
+✅ Transcript assigned
+   Course: 1_fundamentals_of_wellness
+   Lesson: fundamentals-of-wellness-01-01
+   
+python scripts/validate_courses.py
+✔ VALID:   courses/processed/6_growth_momentum_through_clients.json
+✔ VALID:   courses/processed/4_basics_of_client_program_tracking.json
+✔ VALID:   courses/processed/8_advanced_sales_process_cross_sell.json
+✔ VALID:   courses/processed/1_fundamentals_of_wellness.json
+✔ VALID:   courses/processed/2_socialmedia_and_brand_building_basics.json
+✔ VALID:   courses/processed/5_fundamentals_of_a_coaching_mindset.json
+✔ VALID:   courses/processed/7_advanced_wellness_principles.json
+✔ VALID:   courses/processed/3_basics_of_weightloss_sales_process.json
+✔ VALID:   courses/processed/9_advanced_coaching_mindset.json
+
+🎉 All course files are valid!
+```
+
+### Unassign Transcripts
+```
+python scripts/unassign_transcript.py zoom_2025_12_december_2025_dipika_buildingfriendshipwithclient
+```
 
 ### Run Tests
 ```

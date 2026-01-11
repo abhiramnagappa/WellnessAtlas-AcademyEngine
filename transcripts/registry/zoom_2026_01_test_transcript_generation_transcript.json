@@ -1,0 +1,11 @@
+{
+  "transcript_id": "zoom_2026_01_test_transcript_generation_transcript",
+  "source": "zoom",
+  "raw_path": "transcripts/raw/zoom/2026/01/Test_Transcript_Generation_transcript.vtt",
+  "processed_path": "transcripts/processed/unassigned/zoom_2026_01_test_transcript_generation_transcript.md",
+  "assigned": false,
+  "course_id": null,
+  "lesson_id": null,
+  "ingested_at": "2026-01-11T10:36:37.314430",
+  "assignment_method": null
+}
